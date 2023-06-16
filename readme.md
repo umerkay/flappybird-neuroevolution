@@ -1,4 +1,4 @@
-# Flappy Bird AI Simulation
+# Flappy Bird AI Simulation 🐣
 
 This project is a simulation of the popular and simple game, Flappy Bird, implemented in JavaScript using the p5.js library. The objective of this project is to train an AI agent to play Flappy Bird by using a genetic algorithm and a neural network, both implemented from scratch.
 
